@@ -1,4 +1,4 @@
-# restaurant-data-analysis
+# Restaurant Data Analysis
 This repository contains data exploration, preprocessing, and descriptive analysis of a restaurant dataset. The dataset includes information about various restaurants such as their location, cuisine, and ratings. The analysis is divided into three main tasks:
 
 # Tasks Performed:
